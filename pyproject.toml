@@ -1,0 +1,16 @@
+[project]
+name = "jepa-fraudinha"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "mlx>=0.31.2",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "pyyaml>=6.0.3",
+    "ruff>=0.15.12",
+    "scikit-learn>=1.8.0",
+    "tqdm>=4.67.3",
+]
